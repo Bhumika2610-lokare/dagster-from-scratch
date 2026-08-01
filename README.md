@@ -1,0 +1,41 @@
+# Dagster From Scratch 🚀
+
+My journey from Python beginner to Dagster Data Engineer.
+
+## Goal
+
+Learn:
+
+- Python
+- SQL
+- Data Engineering
+- ETL
+- Dagster
+- Data Pipelines
+
+## Rules
+
+Every day:
+
+1. Learn one concept
+2. Build one mini project
+3. Write notes
+4. Push one GitHub commit
+
+## Progress
+
+- [x] Day 1 - Python Variables
+- [ ] Day 2 - IPL Score Tracker
+- [ ] Day 3 - Conditions and Loops
+- [ ] Day 4 - Functions
+- [ ] Day 5 - Files
+- [ ] Day 6 - Mini Project
+- [ ] Day 7 - Weekly Review
+
+## Repository Structure
+
+```text
+day-01-python-basics/
+day-02-ipl-score-tracker/
+day-03-conditions-loops/
+...
