@@ -27,7 +27,7 @@ Every day:
 - [x] Day 1 - Restaurant Bill Calculator
 - [x] Day 2 - IPL Score Tracker
 - [x] Day 3 - Guess The Number Game
-- [ ] Day 4 - Functions
+- [x] Day 4 - Functions
 - [ ] Day 5 - Loops
 - [ ] Day 6 - Mini Project
 - [ ] Day 7 - Weekly Review
