@@ -24,11 +24,11 @@ Every day:
 
 ## Progress
 
-- [x] Day 1 - Python Variables & Bill Calculator
+- [x] Day 1 - Restaurant Bill Calculator
 - [x] Day 2 - IPL Score Tracker
-- [ ] Day 3 - Conditions & Loops
+- [x] Day 3 - Guess The Number Game
 - [ ] Day 4 - Functions
-- [ ] Day 5 - File Handling
+- [ ] Day 5 - Loops
 - [ ] Day 6 - Mini Project
 - [ ] Day 7 - Weekly Review
 
