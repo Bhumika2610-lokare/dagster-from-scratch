@@ -28,8 +28,8 @@ Every day:
 - [x] Day 2 - IPL Score Tracker
 - [x] Day 3 - Guess The Number Game
 - [x] Day 4 - Functions
-- [ ] Day 5 - Loops
-- [ ] Day 6 - Mini Project
+- [x] Day 5 - Loops & Expense Tracker
+- [ ] Day 6 - File Handling
 - [ ] Day 7 - Weekly Review
 
 ## Repository Structure
