@@ -24,11 +24,11 @@ Every day:
 
 ## Progress
 
-- [x] Day 1 - Python Variables
-- [ ] Day 2 - IPL Score Tracker
-- [ ] Day 3 - Conditions and Loops
+- [x] Day 1 - Python Variables & Bill Calculator
+- [x] Day 2 - IPL Score Tracker
+- [ ] Day 3 - Conditions & Loops
 - [ ] Day 4 - Functions
-- [ ] Day 5 - Files
+- [ ] Day 5 - File Handling
 - [ ] Day 6 - Mini Project
 - [ ] Day 7 - Weekly Review
 
